@@ -11,7 +11,13 @@
 --------------------
 
 # Cevaplar
-- Bir tur bütün verileri gezip en küçük değeri bulacağız sonrasında en küçük ile birinci değerin yeri değişecek
+
+Aşama 1: 2,27,16,22,18,6
+Aşama 2: 2,6,16,22,18,27
+Aşama 3: 2,6,16,18,22,27
+
+
+- Öncelikle bütün verileri gezip en küçük değeri bulacağız sonrasında en küçük ile kaçıncı turu atıyorsak o değerin yeri değişecek (3. turu atarken 3. sıradaki veri)
 - Bu sayede bütün liste sıralanmış olacak.
 - Big O = ON^2 iki adet n kadar işlem yapan bir loop var N*N= N square
 - Time Complexity:
