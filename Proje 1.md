@@ -12,9 +12,9 @@
 
 # Cevaplar
 
-Aşama 1: 2,27,16,22,18,6
-Aşama 2: 2,6,16,22,18,27
-Aşama 3: 2,6,16,18,22,27
+Aşama 1: 2,27,16,22,18,6  
+Aşama 2: 2,6,16,22,18,27  
+Aşama 3: 2,6,16,18,22,27  
 
 
 - Öncelikle bütün verileri gezip en küçük değeri bulacağız sonrasında en küçük ile kaçıncı turu atıyorsak o değerin yeri değişecek (3. turu atarken 3. sıradaki veri)
